@@ -1,0 +1,47 @@
+table {
+    border:6px solid; border-color: black; background-color: d8d8d8; width: 
+}
+
+th,td.time{
+    background-color: b8b8b8;
+}
+
+td {
+    text-align:center; padding:10px;
+}
+
+td.itec50 {
+    background-color: ff5500;
+}
+
+td.gned06 {
+    background-color: ffa600;
+}
+
+td.gned03 {
+    background-color: ddff00;
+}
+
+td.fitt2 {
+    background-color: 00ffd5;
+}
+
+td.gned12 {
+    background-color: 0055ff;
+}
+
+td.dcit23 {
+    background-color: 5d00ff;
+}
+
+td.dcit21 {
+    background-color: ff00b3;
+}
+
+td.dcit22 {
+    background-color: 039eff;
+}
+
+td.gned01 {
+    background-color: 22ff00;
+}
